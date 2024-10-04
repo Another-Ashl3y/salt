@@ -1,5 +1,15 @@
 # SALT
 
+### Requirements
+
++ nitrogen
++ picom
++ unclutter
+
+
+
+------
+
 + Copy the backgrounds folder to your `~/`.
 + Copy the `i3/config` to `~/.config/`.
 + Copy the `kitty/kitty.conf` to `~/.config/`.
